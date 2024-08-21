@@ -1,0 +1,22 @@
+.gues{
+    width: 1000px;
+    display: flex;
+    margin-left: 600px;
+    color:skyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.head{
+    
+    margin-left: 550px;
+
+   
+}
+.box align{
+    display: grid;
+    border-radius: 30px;
+    border: 10px;
+    border-color: black;
+    padding: 1px;
+
+}
